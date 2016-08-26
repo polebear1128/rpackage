@@ -1,0 +1,9 @@
+Package: vishalsdata
+Version: 0.1
+Date: 20146-08-27
+License: GPL-3
+Title: Vishal Singh Case Study Data
+Description: Data 
+Author: Vishal Singh <vsingh@stern.nyu.edu> Poppy Zhang<qz411@nyu.edu>
+Maintainer: Vishal Singh <vsingh@stern.nyu.edu>
+LazyData: true
